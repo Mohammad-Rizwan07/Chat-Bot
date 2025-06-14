@@ -1,4 +1,6 @@
-This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
+SEE THE RESULTS IN THE LINK :https://chat-bot-ten-rho.vercel.app/
+
+I have creted a chatgpt like website where you can enter prompts to get results check the above link
 
 ## Getting Started
 
